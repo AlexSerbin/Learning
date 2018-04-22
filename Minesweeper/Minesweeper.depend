@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522927266 source:d:\mtw6.9\sasha\minesweeper\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
